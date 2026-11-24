@@ -1,3 +1,4 @@
+<img width="1535" height="860" alt="屏幕截图 2026-11-24 211246" src="https://github.com/user-attachments/assets/90782b95-3959-4528-8fc4-863cec8c60be" />
 # MineLot 移植版（1.20.1-forge）
 本项目是经典模组 **MineLot** 的非官方移植版本，原模组作者为 Jimbopanda12。
 原版模组相关网站现已失效，不再维护更新。
